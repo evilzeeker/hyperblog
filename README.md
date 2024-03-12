@@ -1,4 +1,3 @@
-# BlogPost [main]
-
-Proyecto para practicar o probar Git y GitHub.
+# hyperblog [main]
+Un blog fenomenal e increíble para realizar pruebas con Git y GitHub.
 
